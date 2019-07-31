@@ -1,8 +1,9 @@
 {
   "main": "index.js",
   "dependencies": {
-    "youtube-playlist": "^1.0.2",
     "ipfs": "^0.36.4",
-    "ipfs-pubsub-room": "1.4.1"
+    "ipfs-pubsub-room": "1.4.1",
+    "json": "^9.0.6",
+    "youtube-playlist": "^1.0.2"
   }
 }
